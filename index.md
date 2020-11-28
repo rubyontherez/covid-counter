@@ -3,8 +3,8 @@ layout: page
 title: Corona Live Updates
 ---
 
-    <link rel="stylesheet" href="{{ site.url }}/covid-counter//styleForCovid.css">
-    <script src="/covid-counter/covid.js" defer></script>
+    <link rel="stylesheet" href="{{ site.url }}/covid-counter/styleForCovid.css">
+    <script src="{{ site.url }}/covid-counter/covid.js" defer></script>
 
 # Global Stats for Covid-19 virus.
 
