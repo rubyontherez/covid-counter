@@ -3,8 +3,8 @@ layout: page
 title: Corona Live Updates
 ---
 
-    <link rel="stylesheet" href="{{ site.url }}/covid-counter/styleForCovid.css">
-    <script src="{{ site.url }}/covid-counter/covid.js" defer></script>
+    <link rel="stylesheet" href="https://www.rubyontherez.com/covid-counter/styleForCovid.css">
+    <script src="https://www.rubyontherez.com/covid-counter/covid.js" defer></script>
 
 # Global Stats for Covid-19 virus.
 
@@ -17,6 +17,6 @@ title: Corona Live Updates
 ## Total Recovered:
 <div id="totalRecovered"></div>
 
-<p class="navForCovid">For country based stats on Covid-19, <a href="{{ site.url }}/covid-counter/country.html">click here.</a></p>
+<p class="navForCovid">For country based stats on Covid-19, <a href="https://www.rubyontherez.com/covid-counter/country.html">click here.</a></p>
 
 © Daksh Kulshrestha
